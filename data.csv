@@ -1,0 +1,28 @@
+,customer_name,home,away,ticket_price,amount,location,city,home_goals,away_goals,match_type,gender,date
+0,Bart,feyenoord,Ajax,5.0,3,De kuip,Rotterdam,1.0,4.0,Eredivisie,female,2020-10-10
+1,,Ajax,Feyenoord,7.5,0,de Arena,Amsterdam,1.0,1.0,Eredivisie,female,2020-10-10
+2,Bart,Ado den Haag,Feyenoord,10.0,2,Bingoal stadion,Den Haag,0.0,2.0,Eredivisie,female,2020-10-10
+3,Bart,Feyenoord,Cambuur,28.0,4,De kuip,Rotterdam,0.0,1.0,Eredivisie,male,2020-10-10
+4,Bart,Feyenoord,Lazio,48.0,4,De kuip,Rotterdam,1.0,0.0,Europa league,male,2020-10-10
+5,Bart,Feyenoord,Midtjylland,48.0,3,De kuip,Rotterdam,2.0,2.0,Europa league,male,2020-10-10
+6,Bart,Feyenoord,Partizan,36.0,4,De kuip,Rotterdam,4.0,1.0,Conference league,male,2020-10-10
+7,Bart,Roma,Feyenoord,15.0,4,De kuip,Rotterdam,0.0,1.0,Conference league,male,2020-10-10
+8,Bart,Feyenoord,Slavia praag,39.0,2,De kuip,Rotterdam,3.0,1.0,Conference league,male,2020-10-10
+9,Bart,Feyenoord,Sturm Gratz,46.0,4,De kuip,Rotterdam,6.0,0.0,Europa league,male,2020-10-10
+10,Bart,Feyenoord,VV alkmaar,5.0,2,Varkenoord,Rotterdam,2.0,1.0,Eredivisie,female,2020-10-10
+11,Bart,Feyenoord,PSV,5.0,2,Varkenoord,Rotterdam,1.0,4.0,KNVB Beker,female,2020-10-10
+12,Bart,Feyenoord,Telstar,5.0,2,Varkenoord,Rotterdam,3.0,0.0,Eredivisie,female,2020-10-10
+13,Bart,Feyenoord,Slavia praag,66.0,3,De kuip,Rotterdam,2.0,0.0,Conference league,male,2020-10-10
+14,Bart,Feyenoord,Ajax,5.0,4,Varkenoord,Rotterdam,0.0,4.0,Eredivisie,female,2020-10-10
+15,Bart,Feyenoord,KV Oostende,,4,Varkenoord,Rotterdam,0.0,4.0,Friendly,male,2020-10-10
+16,Bart,Feyenoord,FC Emmen,12.5,2,De kuip,Rotterdam,4.0,0.0,Friendly,male,2020-10-10
+17,Bart,Feyenoord,FC Twente,5.0,2,Varkenoord,Rotterdam,0.0,1.0,Eredivisie,female,2020-10-10
+18,Bart,Feyenoord,Vitesse,48.5,4,Varkenoord,Rotterdam,,,Eredivisie,male,2023-05-28
+19,Bart,Feyenoord,Ajax,51.0,4,De kuip,Rotterdam,1.0,1.0,Eredivisie,male,2020-10-10
+20,Bart,Feyenoord,sc Heerenveen,5.0,2,Varkenoord,Rotterdam,1.0,2.0,Eredivisie,female,2020-10-10
+21,Bart,Feyenoord,NEC,29.0,4,De Kuip,Rotterdam,4.0,4.0,KNVB Beker,male,2020-10-10
+22,Bart,Feyenoord,Ado Den Haag,5.0,3,Varkenoord,Rotterdam,,,Eredivisie,female,2020-10-10
+23,Bart,Excelsior,Ajax,5.0,2,Van Dongen & De Roo stadion,Rotterdam,,,Eredivisie,female,2020-10-10
+24,Bart,Sparta,RKC,,2,Het Kasteel,Rotterdam,0.0,0.0,Eredivisie,male,2020-10-10
+25,Bart,Sparta,Go Ahead Eagles,,2,Het Kasteel,Rotterdam,2.0,1.0,Eredivisie,male,2020-10-10
+26,Bart,PSV,Feyenoord,5.0,2,De Herdgang,Eindhoven,4.0,0.0,Eredivisie,female,2020-10-10
